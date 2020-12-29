@@ -1,0 +1,7 @@
+19:36:15.675 [main] INFO  resources.base - driver is initialised
+19:36:50.569 [main] INFO  resources.base - navigated to home page
+19:36:50.575 [pool-3-thread-1] INFO  resources.base - Test started
+19:36:50.626 [pool-3-thread-1] INFO  resources.base - Test completed and validated with actual text successfully.
+19:37:00.452 [main] INFO  resources.base - webdriver initialised
+19:37:42.320 [pool-4-thread-1] INFO  resources.base - home page initialised
+19:37:49.643 [pool-4-thread-1] INFO  resources.base - datasent1time

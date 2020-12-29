@@ -1,0 +1,7 @@
+11:56:03.240 [pool-3-thread-1] INFO  resources.base - Test started
+11:56:03.373 [pool-3-thread-1] INFO  resources.base - Test completed and validated with actual text successfully.
+11:56:13.351 [main] INFO  resources.base - driver is initialised
+11:57:19.980 [main] INFO  resources.base - navigated to home page
+11:57:19.984 [pool-4-thread-1] INFO  resources.base - Test started
+11:57:20.036 [pool-4-thread-1] INFO  resources.base - Test completed and validated with actual text successfully.
+11:57:29.648 [main] INFO  resources.base - webdriver initialised

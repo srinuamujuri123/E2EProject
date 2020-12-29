@@ -1,0 +1,5 @@
+12:04:27.335 [pool-5-thread-1] INFO  resources.base - datasent1time
+12:04:27.336 [pool-5-thread-1] INFO  resources.base - test completed successfully
+12:04:30.594 [pool-5-thread-1] INFO  resources.base - home page initialised
+12:04:42.366 [pool-5-thread-1] INFO  resources.base - datasent2ndtime
+12:04:42.366 [pool-5-thread-1] INFO  resources.base - test completed successfully
